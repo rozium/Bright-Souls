@@ -1,0 +1,5 @@
+HOW TO RUN DRVIER ADT :
+1. buka terminal.
+2. cari executeable file.
+3. ketik " ./<nama executeable file> "
+ex : ./mplayer , ./mmap.c , ./mskill.c dll.

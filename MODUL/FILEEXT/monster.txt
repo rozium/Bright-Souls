@@ -1,0 +1,6 @@
+ Fairy Spider Bat Skeleton JackOLantern Devil Casper Centaur Eagle Cobra Phoenix Reaper Dragon
+ 1     1      2   2        3            3     3      4       4     4     5       5      6
+ 15    15     25  30       50           45    40     70      65    60    90      80     400
+ 18    17     21  20       25           24    26     30      31    29    34      35     38
+ 25    26     30  31       32           33    31     36      35    37    40      41     44    
+ 50    50     75  75       100          100   100    200     200   200   300     300    0     .
