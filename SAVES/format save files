@@ -1,0 +1,6 @@
+format save files
+[no] [nama] [job] | ....
+
+format data save player
+
+[nama]  [waktusave dalam detik]  [durasi bermain] [MaxHP] [HP] [STR] [DEF] [Exp] [Level] [Job] [mapindex] [pos i] [pos j] | [skill] | [maps] | [enemy] | [skillpos]
