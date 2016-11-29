@@ -1,5 +1,5 @@
 
-#define slpt 1000
+#define slpt 25000
 #include <stdio.h>
 #include "narasi.h"
 
