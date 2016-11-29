@@ -79,7 +79,7 @@ char* scan_line(char* buffer, int buffer_size) {
 int main()
 {
 	clrscr;
-	// Opening(7,5);
+	Opening(7,5);
 	SelectMenu();
 	return 0;
 }
